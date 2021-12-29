@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simpney-react-website/static/css/main.2839d362.chunk.css",
+    "main.js": "/Simpney-react-website/static/js/main.e0de1f66.chunk.js",
+    "main.js.map": "/Simpney-react-website/static/js/main.e0de1f66.chunk.js.map",
+    "runtime-main.js": "/Simpney-react-website/static/js/runtime-main.48574dad.js",
+    "runtime-main.js.map": "/Simpney-react-website/static/js/runtime-main.48574dad.js.map",
+    "static/js/2.76ab1403.chunk.js": "/Simpney-react-website/static/js/2.76ab1403.chunk.js",
+    "static/js/2.76ab1403.chunk.js.map": "/Simpney-react-website/static/js/2.76ab1403.chunk.js.map",
+    "index.html": "/Simpney-react-website/index.html",
+    "precache-manifest.899038b5ed8288f7bfdbf502bf45fbf5.js": "/Simpney-react-website/precache-manifest.899038b5ed8288f7bfdbf502bf45fbf5.js",
+    "service-worker.js": "/Simpney-react-website/service-worker.js",
+    "static/css/main.2839d362.chunk.css.map": "/Simpney-react-website/static/css/main.2839d362.chunk.css.map",
+    "static/js/2.76ab1403.chunk.js.LICENSE.txt": "/Simpney-react-website/static/js/2.76ab1403.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48574dad.js",
+    "static/js/2.76ab1403.chunk.js",
+    "static/css/main.2839d362.chunk.css",
+    "static/js/main.e0de1f66.chunk.js"
+  ]
+}
